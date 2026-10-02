@@ -1,0 +1,8 @@
+/gator
+/gator.exe
+/bin/
+.env
+.env.*
+!.env.example
+.gatorconfig.json
+
